@@ -8,9 +8,10 @@ A simple and interactive website that allows users to change the background colo
 - ⚙️ Built using HTML, CSS, and JavaScript
 - 🧠 Great beginner project for learning DOM manipulation
 
-## 🔗 Live Demo
+### Live Demo
 
-👉 [View Live Project](https://sarahsahu.github.io/Color-Changer/)
+[Click here to see the Color Changer live demo](https://saumya6250.github.io/Color-Changer/)
+
 
 ## 🛠️ Tech Stack
 
